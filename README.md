@@ -5,7 +5,8 @@
 
 # 👋 Hi, I'm **Hyrum**
 
-<img src="https://media.tenor.com/8e3gJxk2xvYAAAAC/kedinehir-nehirkedi.gif" width="320"/>
+<img width="220" height="172" alt="image" src="https://github.com/user-attachments/assets/338e5125-60b8-4433-a455-390da4ac8a9e" />
+
 
 
 > <span style="color:#1E90FF">tired. learning. repeating.</span>

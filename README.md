@@ -2,8 +2,7 @@
 Fundamentals of Data Science
 
 # 👋 Hi, I'm Hyrum
-[![Coding Meme](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZpZ2N0bG5qM2R6Y3V0Z3V5aHRqZ2J3ZHRoY3RkYjF4dWZzY3RrNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif)
-](https://tenor.com/view/aaaah-cat-gato-gato-gritando-gif-7092770805902844215)
+https://tenor.com/view/aaaah-cat-gato-gato-gritando-gif-7092770805902844215
 
 Tuloy po kayo to my GitHub profile!
 

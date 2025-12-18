@@ -1,38 +1,51 @@
-
 <div align="center">
 
-# CPE310-IE22S1  
-### *Fundamentals of Data Science*
+# 🌙 CPE310-IE22S1  
+### Fundamentals of Data Science
 
-# 👋 Hi, I'm **Hyrum**
+# 👋 hi, i'm **hyrum**
 
-<img src="https://media.tenor.com/8e3gJxk2xvYAAAAC/kedinehir-nehirkedi.gif" width="280"/>
+<img src="https://media.tenor.com/8e3gJxk2xvYAAAAC/kedinehir-nehirkedi.gif" width="320"/>
 
-> *“Rest is productive too.”* 😴
+> tired. learning. repeating.
 
 </div>
 
 ---
 
-## 🌙 About Me
-- 🎓 IE Student  
-- 👨‍👩‍👦 Son  
-- 😵 Constantly tired  
+## 💤 about me
+i’m an **IE student** who is just trying to survive school 😵  
+not in a rush, not a prodigy — just doing my best at my own pace.
+
+most of the time i am:
+- 😴 sleepy  
+- 🤔 thinking about nothing  
+- 📚 pretending to study  
+- 🛌 actually resting  
 
 ---
 
-## 🛠️ Skills
-- 👂 Listening  
-- 🛌 Sleeping  
+## 🛠️ skills (very real)
+- 👂 listening (sometimes)  
+- 🛌 sleeping (expert level)  
+- 🧘 staying calm  
+- ⏳ taking my time  
 
 ---
 
-## 📫 Contact Me
-- 📧 **Email:** qhvlbordeos@tip.edu.ph  
-- 📸 **Instagram:** @hyrumvaughn  
-- 📘 **Facebook:** Hyrum Bordeos  
+## 🌱 currently
+- learning data stuff (slowly)  
+- passing requirements (hopefully)  
+- existing  
 
 ---
 
-## ⚡ Fun Fact
-I love to rest — professionally.
+## 📫 talk to me
+- 📧 email: qhvlbordeos@tip.edu.ph  
+- 📸 ig: @hyrumvaughn  
+- 📘 fb: hyrum bordeos  
+
+---
+
+## ⚡ fun fact
+resting is my main hobby and side quest.

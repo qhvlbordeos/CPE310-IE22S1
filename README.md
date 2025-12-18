@@ -16,10 +16,6 @@ Welcome to my GitHub profile!
 - listening
 - sleeping
   
- 
-
-## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
 
 ## 📫 Contact Me
 - Email: qhvlbordeos@tip.edu.ph
@@ -27,4 +23,4 @@ Welcome to my GitHub profile!
 - FB: Hyrum Bordeos
 
 ## ⚡ Fun Fact
-I love learning new technologies and turning ideas into reality.
+I love to rest!

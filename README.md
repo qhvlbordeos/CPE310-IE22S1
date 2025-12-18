@@ -13,7 +13,7 @@
 
 <br/>
 
-<img width="220" height="172" alt="profile image" src="https://github.com/user-attachments/assets/338e5125-60b8-4433-a455-390da4ac8a9e" />
+
 
 <br/>
 

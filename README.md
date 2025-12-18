@@ -7,11 +7,6 @@
 
 <img src="https://media.tenor.com/8e3gJxk2xvYAAAAC/kedinehir-nehirkedi.gif" width="320"/>
 
-> <span style="color:#1E90FF">tired. learning. repeating.</span>
-
-</div>
-
----
 
 > <span style="color:#1E90FF">tired. learning. repeating.</span>
 

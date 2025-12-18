@@ -3,7 +3,7 @@
 # 🌌 CPE310-IE22S1  
 ### <span style="color:#1E90FF">Fundamentals of Data Science</span>
 
-# 👋 hi, i'm **hyrum**
+# 👋 Hi, I'm **Hyrum**
 
 <img src="https://media.tenor.com/8e3gJxk2xvYAAAAC/kedinehir-nehirkedi.gif" width="320"/>
 

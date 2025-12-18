@@ -21,7 +21,6 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=1E90FF&width=420&lines=tired.;learning.;repeating." />
 
 </div>
 

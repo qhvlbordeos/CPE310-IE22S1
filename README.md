@@ -43,4 +43,5 @@ usually i am:
 
 ## <span style="color:#1E90FF">🔹 talk to me</span>
 - 🔹 email: qhvlbordeos@tip.edu.ph  
-- 🔹 ig: @hyrumvaug
+- 🔹 ig: @hyrumvaughn
+- 🔹 fb: Hyrum Bordeos

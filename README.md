@@ -2,7 +2,8 @@
 Fundamentals of Data Science
 
 # 👋 Hi, I'm Hyrum
-https://tenor.com/view/aaaah-cat-gato-gato-gritando-gif-7092770805902844215
+<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/3a0db9d8-8243-4e8f-a8e1-d1397b0676f3" />
+
 
 Tuloy po kayo to my GitHub profile!
 

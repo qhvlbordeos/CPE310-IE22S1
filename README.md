@@ -42,11 +42,4 @@ usually i am:
 
 ## <span style="color:#1E90FF">🔹 talk to me</span>
 - 🔹 email: qhvlbordeos@tip.edu.ph  
-- 🔹 ig: @hyrumvaughn  
-- 🔹 fb: hyrum bordeos  
-
----
-
-## <span style="color:#1E90FF">💙 fun fact</span>
-resting is my favorite activity.
-
+- 🔹 ig: @hyrumvaug

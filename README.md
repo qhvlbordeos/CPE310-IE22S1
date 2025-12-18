@@ -38,7 +38,18 @@ slow progress, calm energy, steady days.
 - existing  
 
 ---
+<span style="color:#1E90FF">🎮 games i’m playing</span>
+
+currently spending my free time on:
+
+-🎯 Mobile Legends (ML)
+-🔫 Valorant
+
+(mostly to relax… sometimes to suffer)
 
 ## 📬 𝘤𝘰𝘯𝘵𝘢𝘤𝘵𝘴
-- 📧 Email: yourname@email.com  
-- 💼 GitHub: https://github.com/yourusername  
+- 📧 Email: qhvlbordeos@tip.edu.ph  
+- 💼 GitHub: [https://github.com/yourusername  ](https://github.com/qhvlbordeos)
+- 📧 Email: yourname@email.com
+- 📘 Facebook: Hyrum Bordeos
+- 💬 Discord: hyrummmm

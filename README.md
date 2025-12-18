@@ -6,9 +6,7 @@
 <div align="center">
 
 ## 👋 Hi! I'm 𝓗𝔂𝓻𝓾𝓶  
-<br/><br/>
 > *tired. learning. repeating.*
-
 </div>
 
 ---

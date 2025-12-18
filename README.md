@@ -1,11 +1,13 @@
 
 
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" height="160"/>
+<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="100%" height="160"/>
 
-# 🌌 𝘊𝘗𝘌310–𝘐𝘌22𝘚1  
-### 𝘍𝘶𝘯𝘥𝘢𝘮𝘦𝘯𝘵𝘢𝘭𝘴 𝘰𝘧 𝘋𝘢𝘵𝘢 𝘚𝘤𝘪𝘦𝘯𝘤𝘦
+# 🌌 𝐂𝐏𝐄310–𝐈𝐄22𝐒1
+𝐅𝐮𝐧𝐝𝐚𝐦𝐞𝐧𝐭𝐚𝐥𝐬 𝐨𝐟 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞
 
-## 👋 𝘏𝘪, 𝘐’𝘮 **𝘏𝘺𝘳𝘶𝘮**
+## 👋Hi! I'm 𝓗𝔂𝓻𝓾𝓶
+𝓽𝓲𝓻𝓮𝓭. 𝓵𝓮𝓪𝓻𝓷𝓲𝓷𝓰. 𝓻𝓮𝓹𝓮𝓪𝓽𝓲𝓷𝓰.
+
 
 <img width="220" height="172" alt="profile image" src="https://github.com/user-attachments/assets/338e5125-60b8-4433-a455-390da4ac8a9e" />
 

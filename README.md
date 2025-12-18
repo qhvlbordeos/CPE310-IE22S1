@@ -3,9 +3,11 @@
 # 🌙 CPE310-IE22S1  
 ### Fundamentals of Data Science
 
-# 👋 hi, i'm **hyrum**
+# 👋 hi, i'm **Hyrum**
 
-<img src="https://media.tenor.com/8e3gJxk2xvYAAAAC/kedinehir-nehirkedi.gif" width="320"/>
+<div align="center">
+  <img src="https://media.tenor.com/8e3gJxk2xvYAAAAC/kedinehir-nehirkedi.gif" width="320"/>
+</div>
 
 > tired. learning. repeating.
 

@@ -1,53 +1,52 @@
 <div align="center">
 
-# 🌙 CPE310-IE22S1  
-### Fundamentals of Data Science
+# 🌌 CPE310-IE22S1  
+### <span style="color:#1E90FF">Fundamentals of Data Science</span>
 
-# 👋 hi, i'm **Hyrum**
+# 👋 hi, i'm **hyrum**
 
-<div align="center">
-  <img src="https://media.tenor.com/8e3gJxk2xvYAAAAC/kedinehir-nehirkedi.gif" width="320"/>
-</div>
+<img src="https://media.tenor.com/8e3gJxk2xvYAAAAC/kedinehir-nehirkedi.gif" width="320"/>
 
-> tired. learning. repeating.
+> <span style="color:#1E90FF">tired. learning. repeating.</span>
 
 </div>
 
 ---
 
-## 💤 about me
-i’m an **IE student** who is just trying to survive school 😵  
-not in a rush, not a prodigy — just doing my best at my own pace.
+## <span style="color:#1E90FF">💤 about me</span>
+i’m an **IE student** just vibing through school 💙  
+no rush, no pressure — just chill energy.
 
-most of the time i am:
-- 😴 sleepy  
-- 🤔 thinking about nothing  
-- 📚 pretending to study  
-- 🛌 actually resting  
-
----
-
-## 🛠️ skills (very real)
-- 👂 listening (sometimes)  
-- 🛌 sleeping (expert level)  
-- 🧘 staying calm  
-- ⏳ taking my time  
+usually i am:  
+- 🔹 sleepy  
+- 🔹 thinking (or not)  
+- 🔹 pretending to study  
+- 🔹 actually resting  
 
 ---
 
-## 🌱 currently
-- learning data stuff (slowly)  
-- passing requirements (hopefully)  
-- existing  
+## <span style="color:#1E90FF">🔷 skills</span>
+- 🔹 listening  
+- 🔹 sleeping  
+- 🔹 staying calm  
+- 🔹 taking my time  
 
 ---
 
-## 📫 talk to me
-- 📧 email: qhvlbordeos@tip.edu.ph  
-- 📸 ig: @hyrumvaughn  
-- 📘 fb: hyrum bordeos  
+## <span style="color:#1E90FF">💠 currently</span>
+- 🔹 learning data stuff (slowly)  
+- 🔹 surviving requirements  
+- 🔹 existing  
 
 ---
 
-## ⚡ fun fact
-resting is my main hobby and side quest.
+## <span style="color:#1E90FF">🔹 talk to me</span>
+- 🔹 email: qhvlbordeos@tip.edu.ph  
+- 🔹 ig: @hyrumvaughn  
+- 🔹 fb: hyrum bordeos  
+
+---
+
+## <span style="color:#1E90FF">💙 fun fact</span>
+resting is my favorite activity.
+

@@ -2,7 +2,7 @@
   
   <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="100%" height="160"/>
   
-  <div align="center">
+  
   # 🌌 𝐂𝐏𝐄310–𝐈𝐄22𝐒1
   𝐅𝐮𝐧𝐝𝐚𝐦𝐞𝐧𝐭𝐚𝐥𝐬 𝐨𝐟 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞
   
